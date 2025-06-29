@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End em formação | Foco em Python e Django`**
 
-Me chamo Yuri Freitas, tenho 21 anos e sou do Rio de Janeiro - Brasil. Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na Unisuam. Tenho paixão por tecnologia e estou em constante evolução na área de desenvolvimento Back-End, com foco em **Python**, **Django** e **Django REST Framework**.
+Me chamo Yuri Freitas, tenho 22 anos e sou do Rio de Janeiro - Brasil. Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na Unisuam. Tenho paixão por tecnologia e estou em constante evolução na área de desenvolvimento Back-End, com foco em **Python**, **Django** e **Django REST Framework**.
 
 ---
 
